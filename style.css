@@ -1,0 +1,20 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+body, html{
+     background-color: #a0d2e9;
+
+     overflow: hidden;
+    
+}
+
+#sky{
+     width: 50%;
+}
+
+.flake {
+     position: absolute;
+     background-color: white;
+     border-radius: 50%;
+ }
